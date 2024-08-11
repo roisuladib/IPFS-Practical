@@ -1,0 +1,14 @@
+{
+   "name": "nft",
+   "version": "0.0.1",
+   "description": "NFT marketplace",
+   "scripts": {
+      "dev": "pnpm --filter app dev",
+      "build": "pnpm --filter app build",
+      "start": "pnpm --filter app start",
+      "lint": "pnpm --filter app lint"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC"
+}
